@@ -1,6 +1,6 @@
 # LDSD Releases
 
-This repository has released packages of LDSD Languages.
+This repository has the released packages of LDSD Languages.
 
 ## Pre-requisites
 
