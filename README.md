@@ -108,7 +108,7 @@ You can also get the release of a specific day:
 
 ```
 $ brew update # To fetch all available versions.
-$ brew install ldsd-math@YEAR.MONTH.DAY
+$ brew install ldsd-math@YEAR.MONTH.DAY # Example for the Math language.
 ```
 
 ### Specific Year Version
@@ -117,12 +117,12 @@ You can even get the latest release of a specific year:
 
 ```
 $ brew update # To fetch all available versions.
-$ brew install ldsd-math@YEAR
+$ brew install ldsd-math@YEAR # Example for the Math language.
 ```
 
 If you've installed the current year, you can upgrade to the latest release of the current year with:
 
 ```
 $ brew update # To fetch all available versions.
-$ brew upgrade ldsd-math@CURRENT_YEAR
+$ brew upgrade ldsd-math@CURRENT_YEAR # Example for the Math language.
 ```
