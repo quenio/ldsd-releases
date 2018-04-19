@@ -38,7 +38,7 @@ Look for the files ending with '.zip.notes.md'. For example: ldsd-math-1.0.zip.n
 
 The release version format is YEAR.MONTH.DAY-CHANNEL, where:
 - YEAR/MONTH/DAY: the year/month/day the version was released.
-- CHANNEL: which channel the release was published in: _gold_: backward-compatible, high-quality releases with low-risk upgrade; _alpha_: development releases without quality/compatibility guarantees, i.e. high-risk upgrade.
+- CHANNEL: which channel the release was published in: _gold_: backward-compatible, high-quality, low-risk-upgrade releases; _alpha_: development releases without quality/compatibility guarantees, i.e. high-risk upgrade.
 
 Either release channel may include bug fixes and new features.
 
