@@ -29,7 +29,8 @@ $ brew install ldsd-math # To install the latest release of the Math language.
 
 ## Release Notes
 
-To read the release notes of a specific version, please go to: https://github.com/quenio/ldsd-releases/tree/master/ldsd-<suffix>
+To read the release notes of a specific version, please go to: https://github.com/quenio/ldsd-releases/tree/master/ldsd-math
+(This is the directory of the Math language; each language has its own sub-directory.)
 
 Look for the files ending with '.zip.notes.md'. For example: ldsd-math-1.0.zip.notes.md
 
@@ -62,7 +63,7 @@ $ brew update # To fetch all available versions.
 $ brew search ldsd-math # To list available versions of Math language.
 ```
 
-To read the release notes of a specific version, please go to (look for the '.zip.notes.md' files): https://github.com/quenio/ldsd-releases/tree/master/ldsd-<suffix>
+To read the release notes of a specific version, please go to (look for the '.zip.notes.md' files): https://github.com/quenio/ldsd-releases/tree/master/ldsd-math (This is the directory of the Math language; each language has its own sub-directory.)
 
 ### The Very Latest
 
